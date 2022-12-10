@@ -10,3 +10,5 @@
 <br>
 
 ### Estudante de programação e cada vez gostando mais   😄 😍
+
+![snake.gif](https://github.com/coelhooooo/coelhooooo/blob/output/github-contribution-grid-snake.svg)
